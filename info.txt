@@ -1,0 +1,30 @@
+01:45:30
+
+
+Stempel waktu:
+00:00   - Perkenalan
+1:10    - Demo Produk
+4:04    - Prasyarat
+5:27    - Apa itu Django
+12:52   - Pengaturan Sumber Daya & Lingkungan
+15:59   - Instalasi & Pengaturan
+31:28   - Tampilan & URL
+39:55   - Template
+1:04:25 - Basis Data & Panel Admin
+1:39:00 - CRUD
+2:06:22 - Cari
+2:22:27 - Login Pengguna
+2:32:25 - Pesan Flash
+2:39:03 - Pengguna Keluar
+2:41:45 - Halaman Terbatas
+2:49:00 - Pendaftaran pengguna
+3:01:25 - Pesan Ruang Obrolan CRUD
+3:27:30 - Umpan Aktivitas
+3:43:00 - Halaman Profil Pengguna
+3:53:25 - File Statis
+4:02:15 - Instalasi Tema
+5:11:50 - Edit Halaman Akun Pengguna
+5:35:02 - Responsivitas Seluler 
+5:53:00 - Kerangka REST Django
+6:25:43 - Menyesuaikan model Pengguna
+6:37:35 - Mengintegrasikan Model Pengguna Khusus
